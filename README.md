@@ -2,5 +2,6 @@
 
 passwd: 1234
 
-portable GIT 2.4.5
+portable GIT 2.6.3 64bit win
 
+sourceTree 1.6.2.5
